@@ -43,7 +43,7 @@
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2052
+            "stars": 2054
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-01-29T05:21:27Z",
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7335
+            "stars": 7353
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-06-17T07:06:35Z",
             "owner": "SandAI-org",
             "repo": "MAGI-1",
-            "stars": 3763
+            "stars": 3764
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2052
+            "stars": 2054
           }
         }
       ],
@@ -290,7 +290,7 @@
             "last_commit": "2026-06-03T19:16:12Z",
             "owner": "TaekyungKi",
             "repo": "AvatarForcing",
-            "stars": 344
+            "stars": 343
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-04-19T06:40:39Z",
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2546
+            "stars": 2548
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2026-04-24T09:42:22Z",
             "owner": "amap-cvlab",
             "repo": "ABot-PhysWorld",
-            "stars": 369
+            "stars": 367
           }
         }
       ],
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:11:35.419Z",
+    "last_updated": "2026-08-16T03:26:43.449Z",
     "original_repository": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
     "original_repository_sha": "b34932700af6046b44515718535275dea6737785",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-World-Models-with-AR-Diffusion",
