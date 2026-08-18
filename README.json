@@ -43,7 +43,7 @@
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2055
+            "stars": 2057
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2026-07-06T02:31:32Z",
             "owner": "buoyancy99",
             "repo": "diffusion-forcing",
-            "stars": 1285
+            "stars": 1286
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-01-29T05:21:27Z",
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7362
+            "stars": 7374
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2055
+            "stars": 2057
           }
         }
       ],
@@ -248,7 +248,7 @@
             "last_commit": "2026-07-26T15:43:05Z",
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2368
+            "stars": 2371
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-07-30T09:14:06Z",
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1467
+            "stars": 1469
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-04-19T06:40:39Z",
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2550
+            "stars": 2561
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2026-03-21T19:03:33Z",
             "owner": "NVIDIA",
             "repo": "DreamDojo",
-            "stars": 1042
+            "stars": 1044
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-07-23T08:16:55Z",
             "owner": "FofGofx",
             "repo": "WorldCache",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:27:47.798Z",
+    "last_updated": "2026-08-18T03:22:39.572Z",
     "original_repository": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
     "original_repository_sha": "b34932700af6046b44515718535275dea6737785",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-World-Models-with-AR-Diffusion",
