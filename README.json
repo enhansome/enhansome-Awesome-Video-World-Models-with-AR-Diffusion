@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "description": "This repository focuses on Video World Models with Autoregressive (AR) Diffusion, a promising paradigm for scalable, consistent and interactive world modeling (e.g., Genie 3). It aims to serve as a comprehensive and structured resource for researchers, practitioners, and enthusiasts interested in AR diffusion-based video world modeling. To stay at the forefront of the field, this repository is updated weekly.",
-      "items": [],
-      "title": "Overview"
-    },
-    {
-      "description": "Try our minWM, the first full-stack open-source framework that walks you end-to-end through turning a bidirectional T2V foundation model into an action-conditioned video world model — with example data, runnable scripts, Claude skills capturing our hands-on experience, and onboarding knowledge for newcomers!\n",
-      "items": [],
-      "title": "🔥NEW: minWM: Full-Stack Open-Source Video World Model Data & Traing & Distillation & Inference Framework"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "1. Algorithm"
-    },
-    {
       "description": "These methods focus on basic AR Diffusion (where each chunk/frame is generated via diffusion and the frames are AR).",
       "items": [
         {
@@ -25,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 868466289,
             "language": "Python",
             "last_commit": "2024-12-21T19:11:41Z",
             "owner": "jy0205",
@@ -39,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1170755412,
             "language": "Python",
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2064
+            "stars": 2066
           }
         },
         {
@@ -53,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 820501957,
             "language": "Python",
             "last_commit": "2026-07-06T02:31:32Z",
             "owner": "buoyancy99",
             "repo": "diffusion-forcing",
-            "stars": 1287
+            "stars": 1286
           }
         },
         {
@@ -67,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 930886482,
             "language": "Python",
             "last_commit": "2025-07-01T19:19:54Z",
             "owner": "kwsong0113",
@@ -81,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -95,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -109,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 937511287,
             "language": "Python",
             "last_commit": "2025-03-11T09:36:48Z",
             "owner": "mzsun01",
@@ -123,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1067660455,
             "language": "HTML",
             "last_commit": "2025-12-24T12:25:20Z",
             "owner": "wuxiaofei01",
@@ -134,12 +127,231 @@
       "title": "1.1 AR Diffusion (native pretraining)"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "2. Application"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Echo-Memory, \"Echo-Memory: A Controlled Study of Memory in Action World Models\".",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Memory Forcing, \"Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158444028,
+                "language": "TeX",
+                "last_commit": "2026-08-13T03:47:20Z",
+                "owner": "gracezhao1997",
+                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Infinite-World, \"Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158444028,
+                "language": "TeX",
+                "last_commit": "2026-08-13T03:47:20Z",
+                "owner": "gracezhao1997",
+                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViewRope, \"Geometry-Aware Rotary Position Embedding for Consistent Video World Model\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158444028,
+                "language": "TeX",
+                "last_commit": "2026-08-13T03:47:20Z",
+                "owner": "gracezhao1997",
+                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UCM, \"UCM: Unifying Camera Control and Memory with Time-Aware Positional Encoding Warping for World Models\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158444028,
+                "language": "TeX",
+                "last_commit": "2026-08-13T03:47:20Z",
+                "owner": "gracezhao1997",
+                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MemFlow, \"MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1116270444,
+                "language": "Python",
+                "last_commit": "2025-12-29T12:30:22Z",
+                "owner": "KlingAIResearch",
+                "repo": "MemFlow",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Context Forcing, \"Context Forcing: Consistent Autoregressive Video Generation with Long Context\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150726265,
+                "language": "Python",
+                "last_commit": "2026-08-04T02:39:34Z",
+                "owner": "TIGER-AI-Lab",
+                "repo": "Context-Forcing",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PERSIST, \"Beyond Pixel Histories: World Models with Persistent 3D State\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1172512306,
+                "language": "Python",
+                "last_commit": "2026-08-12T13:12:51Z",
+                "owner": "francelico",
+                "repo": "PERSIST",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StableWorld, \"StableWorld: Towards Stable and Consistent Long Interactive Video Generation\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132744244,
+                "language": "Python",
+                "last_commit": "2026-03-18T08:34:27Z",
+                "owner": "xbyym",
+                "repo": "StableWorld",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MosaicMem, \"MosaicMem: Hybrid Spatial Memory for Controllable Video World Models\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158444028,
+                "language": "TeX",
+                "last_commit": "2026-08-13T03:47:20Z",
+                "owner": "gracezhao1997",
+                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HyDRA, \"Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1184190081,
+                "language": "Python",
+                "last_commit": "2026-07-23T08:45:18Z",
+                "owner": "H-EmbodVis",
+                "repo": "HyDRA",
+                "stars": 274
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 1227347243,
+            "language": "Python",
+            "last_commit": "2026-08-16T01:49:36Z",
+            "owner": "Echo-Team-Joy-Future-Academy-JD",
+            "repo": "Echo-Memory",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Long-term Memory:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Context as Memory, \"Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158444028,
+                "language": "TeX",
+                "last_commit": "2026-08-13T03:47:20Z",
+                "owner": "gracezhao1997",
+                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WORLDMEM, \"WORLDMEM: Long-term Consistent World Simulation with Memory\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 964998598,
+                "language": "Python",
+                "last_commit": "2026-02-21T10:25:05Z",
+                "owner": "xizaoqu",
+                "repo": "WorldMem",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VRAG, \"Learning World Models for Interactive Video Generation\".",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158309985,
+                "language": "Python",
+                "last_commit": "2026-02-15T06:22:36Z",
+                "owner": "yeyutaihan",
+                "repo": "vrag",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "1.3 Long Video Generation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -148,11 +360,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 966698850,
             "language": "Python",
             "last_commit": "2026-01-29T05:21:27Z",
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7396
+            "stars": 7400
           }
         },
         {
@@ -162,11 +375,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 970023948,
             "language": "Python",
             "last_commit": "2026-06-17T07:06:35Z",
             "owner": "SandAI-org",
             "repo": "MAGI-1",
-            "stars": 3767
+            "stars": 3768
           }
         },
         {
@@ -176,6 +390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 868466289,
             "language": "Python",
             "last_commit": "2024-12-21T19:11:41Z",
             "owner": "jy0205",
@@ -190,18 +405,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1170755412,
             "language": "Python",
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2064
+            "stars": 2066
           }
         }
       ],
       "title": "2.1 Open-source AR Video Foundation Models"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -210,6 +426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -224,18 +441,229 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
             "stars": 694
           }
+        },
+        {
+          "node_type": "item",
+          "title": "LingBot-World, \"Advancing Open-source World Models\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1143912065,
+            "language": "Python",
+            "last_commit": "2026-07-09T10:39:39Z",
+            "owner": "Robbyant",
+            "repo": "lingbot-world",
+            "stars": 4374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matrix-game 2.0, \"Matrix-game 2.0: An open-source real-time and streaming interactive world model\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 978649191,
+            "language": "Python",
+            "last_commit": "2026-03-30T06:32:00Z",
+            "owner": "SkyworkAI",
+            "repo": "Matrix-Game",
+            "stars": 2305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HY-WorldPlay, \"WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1113569067,
+            "language": "Python",
+            "last_commit": "2026-06-10T07:10:23Z",
+            "owner": "Tencent-Hunyuan",
+            "repo": "HY-WorldPlay",
+            "stars": 1579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAN, \"PAN: A World Model for General, Interactable, and Long-Horizon World Simulation\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158444028,
+            "language": "TeX",
+            "last_commit": "2026-08-13T03:47:20Z",
+            "owner": "gracezhao1997",
+            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RELIC, \"RELIC: Interactive Video World Model with Long-Horizon Memory\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158444028,
+            "language": "TeX",
+            "last_commit": "2026-08-13T03:47:20Z",
+            "owner": "gracezhao1997",
+            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yume 1.5, \"Yume-1.5: A Text-Controlled Interactive World Generation Model\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1019422022,
+            "language": "Python",
+            "last_commit": "2026-01-14T04:05:11Z",
+            "owner": "stdstu12",
+            "repo": "YUME",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astra, \"Astra: General Interactive World Model with Autoregressive Denoising\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078008969,
+            "language": "Python",
+            "last_commit": "2026-06-09T17:27:42Z",
+            "owner": "EternalEvan",
+            "repo": "Astra",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Olaf-World, \"Olaf-World: Orienting Latent Actions for Video World Modeling\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153770664,
+            "language": "Python",
+            "last_commit": "2026-04-20T10:17:54Z",
+            "owner": "showlab",
+            "repo": "Olaf-World",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INSPATIO-WORLD, \"INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183071163,
+            "language": "Python",
+            "last_commit": "2026-07-24T10:44:55Z",
+            "owner": "inspatio",
+            "repo": "inspatio-world",
+            "stars": 977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActionParty, \"ActionParty: Multi-Subject Action Binding in Generative Video Games\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158444028,
+            "language": "TeX",
+            "last_commit": "2026-08-13T03:47:20Z",
+            "owner": "gracezhao1997",
+            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiWorld, \"MultiWorld: Scalable Multi-Agent Multi-View Video World Models\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158444028,
+            "language": "TeX",
+            "last_commit": "2026-08-13T03:47:20Z",
+            "owner": "gracezhao1997",
+            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solaris, \"Solaris: Building a Multiplayer Video World Model in Minecraft\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161285612,
+            "language": "Python",
+            "last_commit": "2026-03-03T22:32:46Z",
+            "owner": "solaris-wm",
+            "repo": "solaris",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniRoam, \"OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1145957442,
+            "language": "Python",
+            "last_commit": "2026-07-26T07:52:14Z",
+            "owner": "yuhengliu02",
+            "repo": "OmniRoam",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagicWorld, \"MagicWorld: Towards Long-Horizon Stability for Interactive Video World Exploration\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154213946,
+            "language": "Python",
+            "last_commit": "2026-04-11T07:47:18Z",
+            "owner": "vivoCameraResearch",
+            "repo": "Magic-World",
+            "stars": 66
+          }
         }
       ],
       "title": "2.2 Interactive Video Action World Model"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -244,11 +672,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1109843084,
             "language": "Python",
             "last_commit": "2026-07-26T15:43:05Z",
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2374
+            "stars": 2376
           }
         },
         {
@@ -258,11 +687,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122641632,
             "language": "Python",
             "last_commit": "2026-07-30T09:14:06Z",
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1470
+            "stars": 1472
           }
         },
         {
@@ -272,6 +702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073233230,
             "language": null,
             "last_commit": "2026-03-01T00:40:14Z",
             "owner": "alex4727",
@@ -286,6 +717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1093531275,
             "language": "Python",
             "last_commit": "2026-06-03T19:16:12Z",
             "owner": "TaekyungKi",
@@ -300,6 +732,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114316825,
             "language": "Python",
             "last_commit": "2025-12-15T07:50:46Z",
             "owner": "zai-org",
@@ -314,6 +747,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1113582699,
             "language": "Python",
             "last_commit": "2026-01-02T05:29:40Z",
             "owner": "GAIR-NLP",
@@ -333,6 +767,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1158444028,
                 "language": "TeX",
                 "last_commit": "2026-08-13T03:47:20Z",
                 "owner": "gracezhao1997",
@@ -341,12 +776,132 @@
               }
             }
           ]
+        },
+        {
+          "node_type": "item",
+          "title": "SoulX-LiveAct, \"SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1179686848,
+            "language": "Python",
+            "last_commit": "2026-06-15T09:50:41Z",
+            "owner": "Soul-AILab",
+            "repo": "SoulX-LiveAct",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiT as Real-Time Rerenderer, \"DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158444028,
+            "language": "TeX",
+            "last_commit": "2026-08-13T03:47:20Z",
+            "owner": "gracezhao1997",
+            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PortraitDirector,\"PortraitDirector: A Hierarchical Disentanglement Framework for Controllable and Real-time Facial Reenactment\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158444028,
+            "language": "TeX",
+            "last_commit": "2026-08-13T03:47:20Z",
+            "owner": "gracezhao1997",
+            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RealWonder, \"RealWonder: Real-Time Physical Action-Conditioned Video Generation\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1173980870,
+            "language": "Python",
+            "last_commit": "2026-03-06T03:32:19Z",
+            "owner": "liuwei283",
+            "repo": "RealWonder",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniForcing, \"OmniForcing: Unleashing Real-time Joint Audio-Visual Generation\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182781577,
+            "language": "Python",
+            "last_commit": "2026-07-23T17:06:28Z",
+            "owner": "OmniForcing",
+            "repo": "OmniForcing",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WMReward, \"Inference-time Physics Alignment of Video Generative Models with Latent World Models\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005011848,
+            "language": "Python",
+            "last_commit": "2026-07-17T16:25:09Z",
+            "owner": "facebookresearch",
+            "repo": "WMReward",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRISM:, \"PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176912148,
+            "language": "Python",
+            "last_commit": "2026-04-11T06:16:11Z",
+            "owner": "ZeyuLing",
+            "repo": "PRISM",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DragStream, \"Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!\".",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159702675,
+            "language": "Python",
+            "last_commit": "2026-04-16T07:50:25Z",
+            "owner": "junbao-zhou",
+            "repo": "DragStream",
+            "stars": 12
+          }
         }
       ],
       "title": "2.3 Real-time Interactive Avtar & Motion & Physical & Audio Control"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -355,11 +910,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1143606434,
             "language": "Python",
             "last_commit": "2026-04-19T06:40:39Z",
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2568
+            "stars": 2570
           }
         },
         {
@@ -369,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153657100,
             "language": "Python",
             "last_commit": "2026-03-21T19:03:33Z",
             "owner": "NVIDIA",
@@ -383,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -397,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -411,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186086401,
             "language": "Python",
             "last_commit": "2026-04-24T09:42:22Z",
             "owner": "amap-cvlab",
@@ -422,12 +982,7 @@
       "title": "2.5 Embodied AI / Autonomous Driving"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "3 Infrastructure"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -436,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -450,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -464,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -478,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -492,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -506,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -520,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -534,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193328187,
             "language": "Python",
             "last_commit": "2026-05-17T06:01:52Z",
             "owner": "zju-jiyicheng",
@@ -548,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1128146880,
             "language": "Python",
             "last_commit": "2026-03-28T02:15:55Z",
             "owner": "csguoh",
@@ -562,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148490983,
             "language": "Python",
             "last_commit": "2026-08-05T10:48:13Z",
             "owner": "chengtao-lv",
@@ -573,7 +1138,7 @@
       "title": "3.1 Sparse Attention"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -582,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158444028,
             "language": "TeX",
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
@@ -596,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174363827,
             "language": "Python",
             "last_commit": "2026-07-23T08:16:55Z",
             "owner": "FofGofx",
@@ -610,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1145631723,
             "language": "Python",
             "last_commit": "2026-04-24T08:44:38Z",
             "owner": "mikeallen39",
@@ -624,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181974028,
             "language": "Python",
             "last_commit": "2026-06-28T21:51:08Z",
             "owner": "umair1221",
@@ -633,21 +1202,12 @@
         }
       ],
       "title": "3.2 Caching"
-    },
-    {
-      "description": "We have not yet compiled an exhaustive list of all related work; we apologize for any omissions and welcome pull requests to merge them in. We also welcome high-level categorization and synthesis.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "We refer to the format of Awesome-World-Models.",
-      "items": [],
-      "title": "Acknowledgment"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:24:49.055Z",
+    "last_updated": "2026-08-19T12:09:49.143Z",
     "original_repository": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
+    "original_repository_id": 1158444028,
     "original_repository_sha": "b34932700af6046b44515718535275dea6737785",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-World-Models-with-AR-Diffusion",
     "enhanced_repository_description": null,
