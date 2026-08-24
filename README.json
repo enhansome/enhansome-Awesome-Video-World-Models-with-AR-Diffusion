@@ -30,7 +30,7 @@
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2069
+            "stars": 2072
           }
         },
         {
@@ -327,7 +327,7 @@
                 "last_commit": "2026-02-21T10:25:05Z",
                 "owner": "xizaoqu",
                 "repo": "WorldMem",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -365,7 +365,7 @@
             "last_commit": "2026-01-29T05:21:27Z",
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7424
+            "stars": 7432
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2026-07-28T02:36:52Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2069
+            "stars": 2072
           }
         }
       ],
@@ -461,7 +461,7 @@
             "last_commit": "2026-07-09T10:39:39Z",
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4379
+            "stars": 4385
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-06-10T07:10:23Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1583
+            "stars": 1584
           }
         },
         {
@@ -677,7 +677,7 @@
             "last_commit": "2026-07-26T15:43:05Z",
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2383
+            "stars": 2384
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2026-07-30T09:14:06Z",
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1475
+            "stars": 1476
           }
         },
         {
@@ -752,7 +752,7 @@
             "last_commit": "2026-01-02T05:29:40Z",
             "owner": "GAIR-NLP",
             "repo": "LiveTalk",
-            "stars": 338
+            "stars": 340
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2026-06-15T09:50:41Z",
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1168
+            "stars": 1171
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-07-23T17:06:28Z",
             "owner": "OmniForcing",
             "repo": "OmniForcing",
-            "stars": 182
+            "stars": 185
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2026-07-17T16:25:09Z",
             "owner": "facebookresearch",
             "repo": "WMReward",
-            "stars": 91
+            "stars": 93
           }
         },
         {
@@ -915,7 +915,7 @@
             "last_commit": "2026-04-19T06:40:39Z",
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2578
+            "stars": 2581
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-05-17T06:01:52Z",
             "owner": "zju-jiyicheng",
             "repo": "Forcing-KV",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -1205,7 +1205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:29:21.690Z",
+    "last_updated": "2026-08-24T03:31:20.579Z",
     "original_repository": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
     "original_repository_id": 1158444028,
     "original_repository_sha": "b34932700af6046b44515718535275dea6737785",
