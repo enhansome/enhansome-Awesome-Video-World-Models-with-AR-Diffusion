@@ -348,7 +348,7 @@
                 "last_commit": "2026-08-20T16:36:11Z",
                 "owner": "mvp-ai-lab",
                 "repo": "RAVEN",
-                "stars": 89
+                "stars": 91
               }
             },
             {
@@ -954,7 +954,7 @@
             "last_commit": "2026-01-29T05:21:27Z",
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7444
+            "stars": 7446
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "last_commit": "2026-07-09T10:39:39Z",
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4387
+            "stars": 4388
           }
         },
         {
@@ -1341,7 +1341,7 @@
             "last_commit": "2026-01-02T05:29:40Z",
             "owner": "GAIR-NLP",
             "repo": "LiveTalk",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -1408,7 +1408,7 @@
             "last_commit": "2026-06-15T09:50:41Z",
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1172
+            "stars": 1173
           }
         },
         {
@@ -1468,7 +1468,7 @@
             "last_commit": "2026-07-23T17:06:28Z",
             "owner": "OmniForcing",
             "repo": "OmniForcing",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:26:03.071Z",
+    "last_updated": "2026-08-25T06:10:59.445Z",
     "original_repository": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
     "original_repository_id": 1158444028,
     "original_repository_sha": "b34932700af6046b44515718535275dea6737785",
