@@ -348,7 +348,7 @@
                 "last_commit": "2026-08-20T16:36:11Z",
                 "owner": "mvp-ai-lab",
                 "repo": "RAVEN",
-                "stars": 93
+                "stars": 94
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2025-10-16T01:28:50Z",
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17231
+                "stars": 17230
               }
             },
             {
@@ -1065,7 +1065,7 @@
             "last_commit": "2026-07-09T10:39:39Z",
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4394
+            "stars": 4395
           }
         },
         {
@@ -1296,7 +1296,7 @@
             "last_commit": "2026-08-24T15:10:10Z",
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2387
+            "stars": 2388
           }
         },
         {
@@ -1600,7 +1600,7 @@
             "last_commit": "2026-03-21T19:03:33Z",
             "owner": "NVIDIA",
             "repo": "DreamDojo",
-            "stars": 1061
+            "stars": 1062
           }
         },
         {
@@ -1911,7 +1911,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:01.854Z",
+    "last_updated": "2026-08-27T12:58:27.984Z",
     "original_repository_info": {
       "archived": false,
       "id": 1158444028,
