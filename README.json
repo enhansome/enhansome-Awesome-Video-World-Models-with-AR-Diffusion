@@ -15,8 +15,9 @@
             "last_commit": "2024-12-21T19:11:41Z",
             "owner": "jy0205",
             "repo": "Pyramid-Flow",
-            "stars": 3208
-          }
+            "stars": 3209
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T07:26:04Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2077
-          }
+            "stars": 2103
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "buoyancy99",
             "repo": "diffusion-forcing",
             "stars": 1288
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "kwsong0113",
             "repo": "diffusion-forcing-transformer",
             "stars": 708
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mzsun01",
             "repo": "AR-Diffusion",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "wuxiaofei01",
             "repo": "PFVG",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "1.1 AR Diffusion (native pretraining)"
@@ -146,8 +154,9 @@
                 "last_commit": "2025-09-12T03:31:30Z",
                 "owner": "guandeh17",
                 "repo": "Self-Forcing",
-                "stars": 3487
-              }
+                "stars": 3490
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -161,8 +170,9 @@
                 "last_commit": "2025-08-07T04:49:23Z",
                 "owner": "tianweiy",
                 "repo": "CausVid",
-                "stars": 1426
-              }
+                "stars": 1428
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -173,11 +183,12 @@
                 "archived": false,
                 "id": 1147151321,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:13:05Z",
+                "last_commit": "2026-08-28T04:58:43Z",
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 935
-              }
+                "stars": 938
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -188,11 +199,12 @@
                 "archived": false,
                 "id": 1147151321,
                 "language": "Python",
-                "last_commit": "2026-08-24T08:13:05Z",
+                "last_commit": "2026-08-28T04:58:43Z",
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 935
-              }
+                "stars": 938
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -206,8 +218,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             }
           ]
         },
@@ -228,8 +241,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -243,8 +257,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -258,8 +273,9 @@
                 "last_commit": "2025-12-15T09:24:04Z",
                 "owner": "JaydenLyh",
                 "repo": "Reward-Forcing",
-                "stars": 356
-              }
+                "stars": 358
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -273,8 +289,9 @@
                 "last_commit": "2026-03-18T10:19:11Z",
                 "owner": "Sphere-AI-Lab",
                 "repo": "diagdistill",
-                "stars": 133
-              }
+                "stars": 132
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -289,7 +306,8 @@
                 "owner": "BigAandSmallq",
                 "repo": "SAD",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -303,8 +321,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -319,7 +338,8 @@
                 "owner": "franklinz233",
                 "repo": "Astrolabe",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -333,8 +353,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -348,8 +369,9 @@
                 "last_commit": "2026-08-20T16:36:11Z",
                 "owner": "mvp-ai-lab",
                 "repo": "RAVEN",
-                "stars": 94
-              }
+                "stars": 97
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -364,7 +386,8 @@
                 "owner": "XingtongGe",
                 "repo": "Salt",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             }
           ]
         }
@@ -391,8 +414,9 @@
                 "last_commit": "2025-10-16T01:28:50Z",
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17230
-              }
+                "stars": 17229
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -407,7 +431,8 @@
                 "owner": "NVlabs",
                 "repo": "LongLive",
                 "stars": 2565
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -421,8 +446,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -436,8 +462,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -451,8 +478,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -466,8 +494,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -481,8 +510,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -496,8 +526,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -511,8 +542,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -526,8 +558,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -542,7 +575,8 @@
                 "owner": "TencentARC",
                 "repo": "RollingForcing",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -557,7 +591,8 @@
                 "owner": "justincui03",
                 "repo": "Self-Forcing-Plus-Plus",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -572,7 +607,8 @@
                 "owner": "AlayaLab",
                 "repo": "PackForcing",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -587,7 +623,8 @@
                 "owner": "KlingAIResearch",
                 "repo": "ShotStream",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -602,7 +639,8 @@
                 "owner": "SOTAMak1r",
                 "repo": "Infinite-Forcing",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -617,7 +655,8 @@
                 "owner": "cvlab-kaist",
                 "repo": "DeepForcing",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -631,8 +670,9 @@
                 "last_commit": "2026-02-17T05:02:28Z",
                 "owner": "Ga-Lee",
                 "repo": "Frequency-aware-Length-EXtension",
-                "stars": 116
-              }
+                "stars": 117
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -647,7 +687,8 @@
                 "owner": "Rolling-Sink",
                 "repo": "Rolling-Sink",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -662,7 +703,8 @@
                 "owner": "yesiltepe-hidir",
                 "repo": "infinity-rope",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -677,7 +719,8 @@
                 "owner": "YoungRaeKimm",
                 "repo": "MemRoPE",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -692,7 +735,8 @@
                 "owner": "vivoCameraResearch",
                 "repo": "Anchor-Forcing",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             }
           ]
         },
@@ -714,7 +758,8 @@
                 "owner": "IF-LAB-PKU",
                 "repo": "Pyramid-Forcing",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             }
           ]
         },
@@ -735,8 +780,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -750,8 +796,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -765,8 +812,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -780,8 +828,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -796,7 +845,8 @@
                 "owner": "KlingAIResearch",
                 "repo": "MemFlow",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -810,8 +860,9 @@
                 "last_commit": "2026-08-12T13:12:51Z",
                 "owner": "francelico",
                 "repo": "PERSIST",
-                "stars": 111
-              }
+                "stars": 112
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -826,7 +877,8 @@
                 "owner": "TIGER-AI-Lab",
                 "repo": "Context-Forcing",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -841,7 +893,8 @@
                 "owner": "xbyym",
                 "repo": "StableWorld",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -855,8 +908,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -871,7 +925,8 @@
                 "owner": "H-EmbodVis",
                 "repo": "HyDRA",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             }
           ],
           "repo_info": {
@@ -882,7 +937,8 @@
             "owner": "Echo-Team-Joy-Future-Academy-JD",
             "repo": "Echo-Memory",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "group",
@@ -901,8 +957,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -916,8 +973,9 @@
                 "last_commit": "2026-02-21T10:25:05Z",
                 "owner": "xizaoqu",
                 "repo": "WorldMem",
-                "stars": 388
-              }
+                "stars": 389
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             },
             {
               "node_type": "item",
@@ -932,7 +990,8 @@
                 "owner": "yeyutaihan",
                 "repo": "vrag",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             }
           ]
         }
@@ -954,8 +1013,9 @@
             "last_commit": "2026-01-29T05:21:27Z",
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7462
-          }
+            "stars": 7467
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -969,8 +1029,9 @@
             "last_commit": "2026-06-17T07:06:35Z",
             "owner": "SandAI-org",
             "repo": "MAGI-1",
-            "stars": 3772
-          }
+            "stars": 3774
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -984,8 +1045,9 @@
             "last_commit": "2024-12-21T19:11:41Z",
             "owner": "jy0205",
             "repo": "Pyramid-Flow",
-            "stars": 3208
-          }
+            "stars": 3209
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -999,8 +1061,9 @@
             "last_commit": "2026-08-24T07:26:04Z",
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2077
-          }
+            "stars": 2103
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "2.1 Open-source AR Video Foundation Models"
@@ -1020,8 +1083,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1035,8 +1099,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1116,8 @@
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
             "stars": 2316
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1065,8 +1131,9 @@
             "last_commit": "2026-07-09T10:39:39Z",
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4395
-          }
+            "stars": 4397
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1148,8 @@
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
             "stars": 2316
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1164,8 @@
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
             "stars": 1586
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1110,8 +1179,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1125,8 +1195,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1140,8 +1211,9 @@
             "last_commit": "2026-01-14T04:05:11Z",
             "owner": "stdstu12",
             "repo": "YUME",
-            "stars": 684
-          }
+            "stars": 685
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1228,8 @@
             "owner": "EternalEvan",
             "repo": "Astra",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1244,8 @@
             "owner": "showlab",
             "repo": "Olaf-World",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1185,8 +1259,9 @@
             "last_commit": "2026-08-21T12:25:45Z",
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2464
-          }
+            "stars": 2462
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1200,8 +1275,9 @@
             "last_commit": "2026-07-24T10:44:55Z",
             "owner": "inspatio",
             "repo": "inspatio-world",
-            "stars": 984
-          }
+            "stars": 985
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1215,8 +1291,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1230,8 +1307,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1324,8 @@
             "owner": "solaris-wm",
             "repo": "solaris",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1340,8 @@
             "owner": "yuhengliu02",
             "repo": "OmniRoam",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1356,8 @@
             "owner": "vivoCameraResearch",
             "repo": "Magic-World",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "2.2 Interactive Video Action World Model"
@@ -1296,8 +1377,9 @@
             "last_commit": "2026-08-24T15:10:10Z",
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2388
-          }
+            "stars": 2389
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1311,8 +1393,9 @@
             "last_commit": "2026-07-30T09:14:06Z",
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1484
-          }
+            "stars": 1486
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1410,8 @@
             "owner": "alex4727",
             "repo": "MotionStream",
             "stars": 578
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1342,7 +1426,8 @@
             "owner": "TaekyungKi",
             "repo": "AvatarForcing",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1356,8 +1441,9 @@
             "last_commit": "2026-01-02T05:29:40Z",
             "owner": "GAIR-NLP",
             "repo": "LiveTalk",
-            "stars": 342
-          }
+            "stars": 344
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1372,7 +1458,8 @@
             "owner": "zai-org",
             "repo": "RealVideo",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "group",
@@ -1391,8 +1478,9 @@
                 "last_commit": "2026-08-25T09:31:34Z",
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 694
-              }
+                "stars": 695
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
             }
           ]
         },
@@ -1408,8 +1496,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1423,8 +1512,9 @@
             "last_commit": "2026-06-15T09:50:41Z",
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1176
-          }
+            "stars": 1179
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1438,8 +1528,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1453,8 +1544,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1468,8 +1560,9 @@
             "last_commit": "2026-03-06T03:32:19Z",
             "owner": "liuwei283",
             "repo": "RealWonder",
-            "stars": 221
-          }
+            "stars": 222
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1483,8 +1576,9 @@
             "last_commit": "2026-07-23T17:06:28Z",
             "owner": "OmniForcing",
             "repo": "OmniForcing",
-            "stars": 190
-          }
+            "stars": 191
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1499,7 +1593,8 @@
             "owner": "facebookresearch",
             "repo": "WMReward",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1514,7 +1609,8 @@
             "owner": "ZeyuLing",
             "repo": "PRISM",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1529,7 +1625,8 @@
             "owner": "junbao-zhou",
             "repo": "DragStream",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "2.3 Real-time Interactive Avtar & Motion & Physical & Audio Control"
@@ -1549,8 +1646,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1564,8 +1662,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "2.4 Egocentric Interaction"
@@ -1585,8 +1684,9 @@
             "last_commit": "2026-04-19T06:40:39Z",
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2599
-          }
+            "stars": 2600
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1601,7 +1701,8 @@
             "owner": "NVIDIA",
             "repo": "DreamDojo",
             "stars": 1062
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1615,8 +1716,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1630,8 +1732,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1646,7 +1749,8 @@
             "owner": "amap-cvlab",
             "repo": "ABot-PhysWorld",
             "stars": 369
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "2.5 Embodied AI / Autonomous Driving"
@@ -1666,8 +1770,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1681,8 +1786,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1696,8 +1802,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1711,8 +1818,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1726,8 +1834,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1741,8 +1850,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1756,8 +1866,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1772,7 +1883,8 @@
             "owner": "zju-jiyicheng",
             "repo": "Forcing-KV",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1787,7 +1899,8 @@
             "owner": "csguoh",
             "repo": "DummyForcing",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1802,7 +1915,8 @@
             "owner": "chengtao-lv",
             "repo": "LightForcing",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "3.1 Sparse Attention"
@@ -1822,8 +1936,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1838,7 +1953,8 @@
             "owner": "FofGofx",
             "repo": "WorldCache",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1853,7 +1969,8 @@
             "owner": "mikeallen39",
             "repo": "FlowCache",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1868,7 +1985,8 @@
             "owner": "umair1221",
             "repo": "WorldCache",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "3.2 Caching"
@@ -1888,8 +2006,9 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
@@ -1903,15 +2022,16 @@
             "last_commit": "2026-08-25T09:31:34Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 694
-          }
+            "stars": 695
+          },
+          "first_seen": "2026-08-28T14:29:44.826Z"
         }
       ],
       "title": "3.3 Quantized Attention"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:58:27.984Z",
+    "last_updated": "2026-08-28T14:29:44.826Z",
     "original_repository_info": {
       "archived": false,
       "id": 1158444028,
@@ -1919,7 +2039,7 @@
       "last_commit": "2026-08-25T09:31:34Z",
       "owner": "gracezhao1997",
       "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-      "stars": 694
+      "stars": 695
     },
     "original_repository_sha": "bd66e7c28b6ab45f177c1e8a9ed9ffe4d4372c49",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-World-Models-with-AR-Diffusion",
