@@ -41,10 +41,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T07:26:04Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2114,
+            "stars": 2120,
             "topics": [
               "acceleration",
               "diffusion",
@@ -86,7 +86,7 @@
             "open_issues": 6,
             "owner": "buoyancy99",
             "repo": "diffusion-forcing",
-            "stars": 1288,
+            "stars": 1289,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -134,7 +134,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -164,7 +164,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -247,7 +247,7 @@
                 "open_issues": 65,
                 "owner": "guandeh17",
                 "repo": "Self-Forcing",
-                "stars": 3491,
+                "stars": 3492,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -268,7 +268,7 @@
                 "open_issues": 45,
                 "owner": "tianweiy",
                 "repo": "CausVid",
-                "stars": 1428,
+                "stars": 1429,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -289,7 +289,7 @@
                 "open_issues": 32,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 938,
+                "stars": 940,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -328,7 +328,7 @@
                 "open_issues": 32,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 938,
+                "stars": 940,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -367,7 +367,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -404,7 +404,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -434,7 +434,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -527,7 +527,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -578,7 +578,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -608,7 +608,7 @@
                 "open_issues": 2,
                 "owner": "mvp-ai-lab",
                 "repo": "RAVEN",
-                "stars": 97,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -684,7 +684,7 @@
                 "open_issues": 20,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2582,
+                "stars": 2585,
                 "topics": [
                   "infra",
                   "long",
@@ -712,7 +712,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -742,7 +742,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -772,7 +772,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -802,7 +802,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -832,7 +832,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -862,7 +862,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -892,7 +892,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -922,7 +922,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -1072,7 +1072,7 @@
                 "open_issues": 7,
                 "owner": "cvlab-kaist",
                 "repo": "DeepForcing",
-                "stars": 143,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1114,7 +1114,7 @@
                 "open_issues": 1,
                 "owner": "Rolling-Sink",
                 "repo": "Rolling-Sink",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1247,7 +1247,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -1277,7 +1277,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -1307,7 +1307,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -1337,7 +1337,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -1385,7 +1385,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:12:51Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "francelico",
                 "repo": "PERSIST",
                 "stars": 112,
@@ -1415,7 +1415,7 @@
                 "open_issues": 1,
                 "owner": "TIGER-AI-Lab",
                 "repo": "Context-Forcing",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "videogen"
                 ]
@@ -1459,7 +1459,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -1510,7 +1510,7 @@
             "open_issues": 2,
             "owner": "Echo-Team-Joy-Future-Academy-JD",
             "repo": "Echo-Memory",
-            "stars": 247,
+            "stars": 249,
             "topics": [
               "action-conditioned",
               "computer-vision",
@@ -1550,7 +1550,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -1630,7 +1630,7 @@
             "open_issues": 351,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7475,
+            "stars": 7476,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1651,7 +1651,7 @@
             "open_issues": 46,
             "owner": "SandAI-org",
             "repo": "MAGI-1",
-            "stars": 3774,
+            "stars": 3773,
             "topics": [
               "autoregressive",
               "diffusion-models",
@@ -1698,10 +1698,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T07:26:04Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2114,
+            "stars": 2120,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1749,7 +1749,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -1779,7 +1779,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -1809,7 +1809,7 @@
             "open_issues": 34,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2316,
+            "stars": 2319,
             "topics": [
               "genie",
               "interactive-video",
@@ -1839,7 +1839,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4401,
+            "stars": 4404,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1866,7 +1866,7 @@
             "open_issues": 34,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2316,
+            "stars": 2319,
             "topics": [
               "genie",
               "interactive-video",
@@ -1896,7 +1896,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1587,
+            "stars": 1589,
             "topics": [
               "3d",
               "hunyuan",
@@ -1925,7 +1925,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -1955,7 +1955,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2064,7 +2064,7 @@
             "open_issues": 0,
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2463,
+            "stars": 2467,
             "topics": [
               "worldmodel"
             ]
@@ -2087,7 +2087,7 @@
             "open_issues": 6,
             "owner": "inspatio",
             "repo": "inspatio-world",
-            "stars": 985,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2108,7 +2108,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2138,7 +2138,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2168,7 +2168,7 @@
             "open_issues": 0,
             "owner": "solaris-wm",
             "repo": "solaris",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2249,7 +2249,7 @@
             "open_issues": 43,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2390,
+            "stars": 2394,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2384,7 +2384,7 @@
                 "open_issues": 2,
                 "owner": "gracezhao1997",
                 "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "ar-diffusion",
                   "autoregressive",
@@ -2416,7 +2416,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2446,7 +2446,7 @@
             "open_issues": 20,
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1179,
+            "stars": 1181,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2467,7 +2467,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2497,7 +2497,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2638,7 +2638,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2668,7 +2668,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2704,7 +2704,7 @@
             "open_issues": 32,
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2603,
+            "stars": 2610,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2746,7 +2746,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2776,7 +2776,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2833,7 +2833,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2863,7 +2863,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2893,7 +2893,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2923,7 +2923,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2953,7 +2953,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -2983,7 +2983,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -3013,7 +3013,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -3112,7 +3112,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -3142,7 +3142,7 @@
             "open_issues": 0,
             "owner": "FofGofx",
             "repo": "WorldCache",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "free-training",
               "inference-acceleration",
@@ -3189,7 +3189,7 @@
             "open_issues": 0,
             "owner": "umair1221",
             "repo": "WorldCache",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -3216,7 +3216,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -3246,7 +3246,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -3265,7 +3265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:27:52.635Z",
+    "last_updated": "2026-08-31T08:48:19.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
@@ -3277,7 +3277,7 @@
       "open_issues": 2,
       "owner": "gracezhao1997",
       "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-      "stars": 697,
+      "stars": 698,
       "topics": [
         "ar-diffusion",
         "autoregressive",
