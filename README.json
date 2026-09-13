@@ -247,7 +247,7 @@
                 "open_issues": 65,
                 "owner": "guandeh17",
                 "repo": "Self-Forcing",
-                "stars": 3511,
+                "stars": 3509,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -289,7 +289,7 @@
                 "open_issues": 32,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 957,
+                "stars": 959,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -328,7 +328,7 @@
                 "open_issues": 32,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 957,
+                "stars": 959,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -608,7 +608,7 @@
                 "open_issues": 2,
                 "owner": "mvp-ai-lab",
                 "repo": "RAVEN",
-                "stars": 118,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -663,7 +663,7 @@
                 "open_issues": 489,
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17251,
+                "stars": 17253,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1489,7 +1489,7 @@
                 "open_issues": 1,
                 "owner": "H-EmbodVis",
                 "repo": "HyDRA",
-                "stars": 278,
+                "stars": 280,
                 "topics": [
                   "video-generation",
                   "world-models",
@@ -1630,7 +1630,7 @@
             "open_issues": 352,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7522,
+            "stars": 7523,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1651,7 +1651,7 @@
             "open_issues": 46,
             "owner": "SandAI-org",
             "repo": "MAGI-1",
-            "stars": 3784,
+            "stars": 3785,
             "topics": [
               "autoregressive",
               "diffusion-models",
@@ -1839,7 +1839,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4441,
+            "stars": 4443,
             "topics": [
               "aigc",
               "image-to-video",
@@ -2012,7 +2012,7 @@
             "open_issues": 8,
             "owner": "EternalEvan",
             "repo": "Astra",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "video-generation",
               "world-model"
@@ -2064,7 +2064,7 @@
             "open_issues": 1,
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2494,
+            "stars": 2493,
             "topics": [
               "worldmodel"
             ]
@@ -2087,7 +2087,7 @@
             "open_issues": 6,
             "owner": "inspatio",
             "repo": "inspatio-world",
-            "stars": 1013,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2249,7 +2249,7 @@
             "open_issues": 44,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2418,
+            "stars": 2419,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2270,7 +2270,7 @@
             "open_issues": 22,
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1505,
+            "stars": 1507,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2333,7 +2333,7 @@
             "open_issues": 9,
             "owner": "GAIR-NLP",
             "repo": "LiveTalk",
-            "stars": 347,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2725,7 +2725,7 @@
             "open_issues": 19,
             "owner": "NVIDIA",
             "repo": "DreamDojo",
-            "stars": 1085,
+            "stars": 1086,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -3265,7 +3265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:17:13.960Z",
+    "last_updated": "2026-09-13T07:35:36.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
