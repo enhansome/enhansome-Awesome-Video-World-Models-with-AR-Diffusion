@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Pyramid Flow: \"Pyramidal Flow Matching for Efficient Video Generative Modeling\".",
-          "description": null,
+          "description": "jy0205/Pyramid-Flow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "Helios, \"Helios: Real Real-Time Long Video Generation Model\".",
-          "description": null,
+          "description": "PKU-YuanGroup/Helios",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -44,7 +44,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2182,
+            "stars": 2183,
             "topics": [
               "acceleration",
               "diffusion",
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "Diffusion Forcing: \"Next-token Prediction Meets Full-Sequence Diffusion\".",
-          "description": null,
+          "description": "buoyancy99/diffusion-forcing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,68 +93,8 @@
         },
         {
           "node_type": "item",
-          "title": "BAgger, \"BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resampling Forcing, \"End-to-End Training for Autoregressive Video Diffusion via Self-Resampling\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
           "title": "DFoT, \"History-Guided Video Diffusion\".",
-          "description": null,
+          "description": "kwsong0113/diffusion-forcing-transformer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -181,7 +121,7 @@
         {
           "node_type": "item",
           "title": "AR-Diffusion, \"AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion\".",
-          "description": null,
+          "description": "mzsun01/AR-Diffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,7 +142,7 @@
         {
           "node_type": "item",
           "title": "PFVG, \"Pack and force your memory: Long-form and consistent video generation\".",
-          "description": null,
+          "description": "wuxiaofei01/PFVG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +174,7 @@
             {
               "node_type": "item",
               "title": "[⭐] Self Forcing, \"Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion\".",
-              "description": null,
+              "description": "guandeh17/Self-Forcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -255,7 +195,7 @@
             {
               "node_type": "item",
               "title": "[⭐] CausVid, \"From Slow Bidirectional to Fast Autoregressive Video Diffusion Models\".",
-              "description": null,
+              "description": "tianweiy/CausVid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,7 +216,7 @@
             {
               "node_type": "item",
               "title": "[⭐] Causal Forcing, \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\".",
-              "description": null,
+              "description": "thu-ml/Causal-Forcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,10 +226,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T08:19:53Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 985,
+                "stars": 986,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -315,7 +255,7 @@
             {
               "node_type": "item",
               "title": "[⭐] Causal Forcing++, \"Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation\".",
-              "description": null,
+              "description": "thu-ml/Causal-Forcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -325,10 +265,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T08:19:53Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 985,
+                "stars": 986,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -350,36 +290,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[⭐] (Another line of AR distillation via GAN) APT2, \"Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
             }
           ]
         },
@@ -390,68 +300,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "(Adversarial distillation) Seaweed APT2, \"Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "(Reinforcement learning) WorldCompass, \"WorldCompass: Reinforcement Learning for Long-Horizon World Models\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
               "title": "(Reinforcement learning) Reward Forcing, \"Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation\".",
-              "description": null,
+              "description": "JaydenLyh/Reward-Forcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -472,7 +322,7 @@
             {
               "node_type": "item",
               "title": "(Two-steps distillation) Diagonal Distillation, \"Streaming Autoregressive Video Generation via Diagonal Distillation\".",
-              "description": null,
+              "description": "Sphere-AI-Lab/diagdistill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -493,7 +343,7 @@
             {
               "node_type": "item",
               "title": "(One-step distillation) ASD, \"Towards One-Step Causal Video Generation via Adversarial Self-Distillation\".",
-              "description": null,
+              "description": "BigAandSmallq/SAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,38 +363,8 @@
             },
             {
               "node_type": "item",
-              "title": "(Reinforcement learning) AR-CoPO,\"AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
               "title": "(Reinforcement learning) Astrolabe, \"Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models\".",
-              "description": null,
+              "description": "franklinz233/Astrolabe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -564,38 +384,8 @@
             },
             {
               "node_type": "item",
-              "title": "(Distillation) Delta Forcing, \"Delta Forcing: Trust Region Steering for Interactive AR Video Generation\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
               "title": "(Reinforcement learning) RAVEN, \"RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO\".",
-              "description": null,
+              "description": "mvp-ai-lab/RAVEN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -616,7 +406,7 @@
             {
               "node_type": "item",
               "title": "(Distribution matching) Salt, \"Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation\".",
-              "description": null,
+              "description": "XingtongGe/Salt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -650,7 +440,7 @@
             {
               "node_type": "item",
               "title": "FramePack, \"Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models\".",
-              "description": null,
+              "description": "lllyasviel/FramePack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -663,7 +453,7 @@
                 "open_issues": 493,
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17266,
+                "stars": 17265,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -671,7 +461,7 @@
             {
               "node_type": "item",
               "title": "LongLive, \"LongLive: Real-time Interactive Long Video Generation\".",
-              "description": null,
+              "description": "NVlabs/LongLive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -684,7 +474,7 @@
                 "open_issues": 21,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2653,
+                "stars": 2649,
                 "topics": [
                   "infra",
                   "long",
@@ -698,248 +488,8 @@
             },
             {
               "node_type": "item",
-              "title": "LoL, \"LoL: Longer than Longer, Scaling Video Generation to Hour\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LIVE, \"LIVE: Long-horizon Interactive Video World Modeling\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MMM, \"Mode Seeking meets Mean Seeking for Fast Long Video Generation\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DCARL, \"DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Grounded Forcing, \"Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TempoMaster, \"TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction\",",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Hybrid Forcing, \"Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation\",",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Pyramid Forcing, \"Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation\",",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
               "title": "Rolling Forcing, \"Rolling Forcing: Autoregressive Long Video Diffusion in Real Time\".",
-              "description": null,
+              "description": "TencentARC/RollingForcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -966,7 +516,7 @@
             {
               "node_type": "item",
               "title": "Self Forcing++, \"Self-Forcing++: Towards Minute-Scale High-Quality Video Generation\".",
-              "description": null,
+              "description": "justincui03/Self-Forcing-Plus-Plus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -979,7 +529,7 @@
                 "open_issues": 7,
                 "owner": "justincui03",
                 "repo": "Self-Forcing-Plus-Plus",
-                "stars": 272,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -987,7 +537,7 @@
             {
               "node_type": "item",
               "title": "PackForcing, \"PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference\".",
-              "description": null,
+              "description": "AlayaLab/PackForcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1008,7 +558,7 @@
             {
               "node_type": "item",
               "title": "ShotStream, \"ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling\".",
-              "description": null,
+              "description": "KlingAIResearch/ShotStream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1033,7 +583,7 @@
             {
               "node_type": "item",
               "title": "Infinite Forcing,",
-              "description": null,
+              "description": "SOTAMak1r/Infinite-Forcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1059,7 +609,7 @@
             {
               "node_type": "item",
               "title": "Deep Forcing, \"Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression\".",
-              "description": null,
+              "description": "cvlab-kaist/DeepForcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1080,7 +630,7 @@
             {
               "node_type": "item",
               "title": "FLEX, \"Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation\".",
-              "description": null,
+              "description": "Ga-Lee/Frequency-aware-Length-EXtension",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1101,7 +651,7 @@
             {
               "node_type": "item",
               "title": "Rolling Sink, \"Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion\".",
-              "description": null,
+              "description": "Rolling-Sink/Rolling-Sink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1122,7 +672,7 @@
             {
               "node_type": "item",
               "title": "Infinity-RoPE, \"Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout\".",
-              "description": null,
+              "description": "yesiltepe-hidir/infinity-rope",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1145,7 +695,7 @@
             {
               "node_type": "item",
               "title": "MemRoPE, \"MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens\".",
-              "description": null,
+              "description": "YoungRaeKimm/MemRoPE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1178,7 +728,7 @@
             {
               "node_type": "item",
               "title": "Anchor Forcing, \"Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion\".",
-              "description": null,
+              "description": "vivoCameraResearch/Anchor-Forcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1206,7 +756,7 @@
             {
               "node_type": "item",
               "title": "CausalCine, \"CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives\".",
-              "description": null,
+              "description": "IF-LAB-PKU/Pyramid-Forcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1229,132 +779,12 @@
         {
           "node_type": "item",
           "title": "Echo-Memory, \"Echo-Memory: A Controlled Study of Memory in Action World Models\".",
-          "description": null,
+          "description": "Echo-Team-Joy-Future-Academy-JD/Echo-Memory",
           "children": [
             {
               "node_type": "item",
-              "title": "Memory Forcing, \"Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Infinite-World, \"Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ViewRope, \"Geometry-Aware Rotary Position Embedding for Consistent Video World Model\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "UCM, \"UCM: Unifying Camera Control and Memory with Time-Aware Positional Encoding Warping for World Models\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
               "title": "MemFlow, \"MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives\".",
-              "description": null,
+              "description": "KlingAIResearch/MemFlow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1375,7 +805,7 @@
             {
               "node_type": "item",
               "title": "PERSIST, \"Beyond Pixel Histories: World Models with Persistent 3D State\".",
-              "description": null,
+              "description": "francelico/PERSIST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1402,7 +832,7 @@
             {
               "node_type": "item",
               "title": "Context Forcing, \"Context Forcing: Consistent Autoregressive Video Generation with Long Context\".",
-              "description": null,
+              "description": "TIGER-AI-Lab/Context-Forcing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1425,7 +855,7 @@
             {
               "node_type": "item",
               "title": "StableWorld, \"StableWorld: Towards Stable and Consistent Long Interactive Video Generation\".",
-              "description": null,
+              "description": "xbyym/StableWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1445,38 +875,8 @@
             },
             {
               "node_type": "item",
-              "title": "MosaicMem, \"MosaicMem: Hybrid Spatial Memory for Controllable Video World Models\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
               "title": "HyDRA, \"Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models\".",
-              "description": null,
+              "description": "H-EmbodVis/HyDRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1536,38 +936,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Context as Memory, \"Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
               "title": "WORLDMEM, \"WORLDMEM: Long-term Consistent World Simulation with Memory\".",
-              "description": null,
+              "description": "xizaoqu/WorldMem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1588,7 +958,7 @@
             {
               "node_type": "item",
               "title": "VRAG, \"Learning World Models for Interactive Video Generation\".",
-              "description": null,
+              "description": "yeyutaihan/vrag",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1617,7 +987,7 @@
         {
           "node_type": "item",
           "title": "SkyReels, \"SkyReels-V2: Infinite-length Film Generative Model\".",
-          "description": null,
+          "description": "SkyworkAI/SkyReels-V2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1630,7 +1000,7 @@
             "open_issues": 366,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7597,
+            "stars": 7594,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1638,7 +1008,7 @@
         {
           "node_type": "item",
           "title": "MAGI-1, \"MAGI-1: Autoregressive Video Generation at Scale\".",
-          "description": null,
+          "description": "SandAI-org/MAGI-1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1663,7 +1033,7 @@
         {
           "node_type": "item",
           "title": "Pyramid Flow: \"Pyramidal Flow Matching for Efficient Video Generative Modeling\".",
-          "description": null,
+          "description": "jy0205/Pyramid-Flow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1688,7 +1058,7 @@
         {
           "node_type": "item",
           "title": "Helios, \"Helios: Real Real-Time Long Video Generation Model\".",
-          "description": null,
+          "description": "PKU-YuanGroup/Helios",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1701,7 +1071,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2182,
+            "stars": 2183,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1735,68 +1105,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Genie3.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Yan, \"Yan: Foundational Interactive Video Generation\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
           "title": "Matrix-Game 3.0, \"Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory\".",
-          "description": null,
+          "description": "SkyworkAI/Matrix-Game",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1809,7 +1119,7 @@
             "open_issues": 35,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2340,
+            "stars": 2342,
             "topics": [
               "genie",
               "interactive-video",
@@ -1826,7 +1136,7 @@
         {
           "node_type": "item",
           "title": "LingBot-World, \"Advancing Open-source World Models\".",
-          "description": null,
+          "description": "Robbyant/lingbot-world",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1839,7 +1149,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4500,
+            "stars": 4504,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1853,7 +1163,7 @@
         {
           "node_type": "item",
           "title": "Matrix-game 2.0, \"Matrix-game 2.0: An open-source real-time and streaming interactive world model\".",
-          "description": null,
+          "description": "SkyworkAI/Matrix-Game",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1866,7 +1176,7 @@
             "open_issues": 35,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2340,
+            "stars": 2342,
             "topics": [
               "genie",
               "interactive-video",
@@ -1883,7 +1193,7 @@
         {
           "node_type": "item",
           "title": "HY-WorldPlay, \"WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling\".",
-          "description": null,
+          "description": "Tencent-Hunyuan/HY-WorldPlay",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1896,7 +1206,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1606,
+            "stars": 1607,
             "topics": [
               "3d",
               "hunyuan",
@@ -1911,68 +1221,8 @@
         },
         {
           "node_type": "item",
-          "title": "PAN, \"PAN: A World Model for General, Interactable, and Long-Horizon World Simulation\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RELIC, \"RELIC: Interactive Video World Model with Long-Horizon Memory\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
           "title": "Yume 1.5, \"Yume-1.5: A Text-Controlled Interactive World Generation Model\".",
-          "description": null,
+          "description": "stdstu12/YUME",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1999,7 +1249,7 @@
         {
           "node_type": "item",
           "title": "Astra, \"Astra: General Interactive World Model with Autoregressive Denoising\".",
-          "description": null,
+          "description": "EternalEvan/Astra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2023,7 +1273,7 @@
         {
           "node_type": "item",
           "title": "Olaf-World, \"Olaf-World: Orienting Latent Actions for Video World Modeling\".",
-          "description": null,
+          "description": "showlab/Olaf-World",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2051,7 +1301,7 @@
         {
           "node_type": "item",
           "title": "ABot-World-0, \"ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU\".",
-          "description": null,
+          "description": "amap-cvlab/ABot-World",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2064,7 +1314,7 @@
             "open_issues": 1,
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2514,
+            "stars": 2513,
             "topics": [
               "worldmodel"
             ]
@@ -2074,7 +1324,7 @@
         {
           "node_type": "item",
           "title": "INSPATIO-WORLD, \"INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling\".",
-          "description": null,
+          "description": "inspatio/inspatio-world",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2087,75 +1337,15 @@
             "open_issues": 5,
             "owner": "inspatio",
             "repo": "inspatio-world",
-            "stars": 1024,
+            "stars": 1023,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
-          "title": "ActionParty, \"ActionParty: Multi-Subject Action Binding in Generative Video Games\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MultiWorld, \"MultiWorld: Scalable Multi-Agent Multi-View Video World Models\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
           "title": "Solaris, \"Solaris: Building a Multiplayer Video World Model in Minecraft\".",
-          "description": null,
+          "description": "solaris-wm/solaris",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2176,7 +1366,7 @@
         {
           "node_type": "item",
           "title": "OmniRoam, \"OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation\".",
-          "description": null,
+          "description": "yuhengliu02/OmniRoam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2197,7 +1387,7 @@
         {
           "node_type": "item",
           "title": "MagicWorld, \"MagicWorld: Towards Long-Horizon Stability for Interactive Video World Exploration\".",
-          "description": null,
+          "description": "vivoCameraResearch/Magic-World",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2236,7 +1426,7 @@
         {
           "node_type": "item",
           "title": "LiveAvatar, \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\".",
-          "description": null,
+          "description": "Alibaba-Quark/LiveAvatar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2249,7 +1439,7 @@
             "open_issues": 45,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2446,
+            "stars": 2448,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2257,7 +1447,7 @@
         {
           "node_type": "item",
           "title": "SoulX-FlashTalk, \"SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation\".",
-          "description": null,
+          "description": "Soul-AILab/SoulX-FlashTalk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2270,7 +1460,7 @@
             "open_issues": 22,
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1528,
+            "stars": 1529,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2278,7 +1468,7 @@
         {
           "node_type": "item",
           "title": "MotionStream, \"MotionStream: Real-Time Video Generation with Interactive Motion Controls\".",
-          "description": null,
+          "description": "alex4727/MotionStream",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2299,7 +1489,7 @@
         {
           "node_type": "item",
           "title": "Avatar Forcing, \"Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation\".",
-          "description": null,
+          "description": "TaekyungKi/AvatarForcing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2320,7 +1510,7 @@
         {
           "node_type": "item",
           "title": "LiveTalk, \"LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation\".",
-          "description": null,
+          "description": "GAIR-NLP/LiveTalk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2341,7 +1531,7 @@
         {
           "node_type": "item",
           "title": "RealVideo,",
-          "description": null,
+          "description": "zai-org/RealVideo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2354,7 +1544,7 @@
             "open_issues": 2,
             "owner": "zai-org",
             "repo": "RealVideo",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "llm",
               "realtime",
@@ -2364,76 +1554,9 @@
           "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
-          "node_type": "group",
-          "title": "",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Knot Forcing, \"Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation\".",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-                "homepage": null,
-                "id": 1158444028,
-                "language": "TeX",
-                "license": null,
-                "last_commit": "2026-09-22T05:39:16Z",
-                "open_issues": 2,
-                "owner": "gracezhao1997",
-                "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-                "stars": 712,
-                "topics": [
-                  "ar-diffusion",
-                  "autoregressive",
-                  "awesome-list",
-                  "computer-vision",
-                  "diffusion-models",
-                  "generative-ai",
-                  "video-generation",
-                  "world-models"
-                ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            }
-          ]
-        },
-        {
-          "node_type": "item",
-          "title": "Geometry-as-context, \"Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
           "node_type": "item",
           "title": "SoulX-LiveAct, \"SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory\".",
-          "description": null,
+          "description": "Soul-AILab/SoulX-LiveAct",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2453,68 +1576,8 @@
         },
         {
           "node_type": "item",
-          "title": "DiT as Real-Time Rerenderer, \"DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PortraitDirector,\"PortraitDirector: A Hierarchical Disentanglement Framework for Controllable and Real-time Facial Reenactment\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
           "title": "RealWonder, \"RealWonder: Real-Time Physical Action-Conditioned Video Generation\".",
-          "description": null,
+          "description": "liuwei283/RealWonder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2535,7 +1598,7 @@
         {
           "node_type": "item",
           "title": "OmniForcing, \"OmniForcing: Unleashing Real-time Joint Audio-Visual Generation\".",
-          "description": null,
+          "description": "OmniForcing/OmniForcing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2556,7 +1619,7 @@
         {
           "node_type": "item",
           "title": "WMReward, \"Inference-time Physics Alignment of Video Generative Models with Latent World Models\".",
-          "description": null,
+          "description": "facebookresearch/WMReward",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2577,7 +1640,7 @@
         {
           "node_type": "item",
           "title": "PRISM:, \"PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition\".",
-          "description": null,
+          "description": "ZeyuLing/PRISM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2598,7 +1661,7 @@
         {
           "node_type": "item",
           "title": "DragStream, \"Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!\".",
-          "description": null,
+          "description": "junbao-zhou/DragStream",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2620,78 +1683,12 @@
       "title": "2.3 Real-time Interactive Avtar & Motion & Physical & Audio Control"
     },
     {
-      "description": "This category focuses on first-person (egocentric) video generation, emphasizing hand-object interaction for VR.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hand2World, \"Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Generated Reality, \"Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        }
-      ],
-      "title": "2.4 Egocentric Interaction"
-    },
-    {
       "description": null,
       "items": [
         {
           "node_type": "item",
           "title": "DreamZero, \"World Action Models are Zero-shot Policies\".",
-          "description": null,
+          "description": "dreamzero0/dreamzero",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2704,7 +1701,7 @@
             "open_issues": 37,
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2679,
+            "stars": 2680,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -2712,7 +1709,7 @@
         {
           "node_type": "item",
           "title": "DreamDojo, \"DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos\".",
-          "description": null,
+          "description": "NVIDIA/DreamDojo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2725,75 +1722,15 @@
             "open_issues": 19,
             "owner": "NVIDIA",
             "repo": "DreamDojo",
-            "stars": 1108,
+            "stars": 1107,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
         },
         {
           "node_type": "item",
-          "title": "Vidarc, \"Vidarc: Embodied Video Diffusion Model for Closed-loop Control\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FAR-Drive, \"FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
           "title": "ABot-PhysWorld, \"ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment\".",
-          "description": null,
+          "description": "amap-cvlab/ABot-PhysWorld",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2814,7 +1751,7 @@
         {
           "node_type": "item",
           "title": "DriveVA, \"DriveVA: Video Action Models are Zero-Shot Drivers\" (ECCV 2026).",
-          "description": null,
+          "description": "xiaomi-mlab/DriveVA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2827,7 +1764,7 @@
             "open_issues": 2,
             "owner": "xiaomi-mlab",
             "repo": "DriveVA",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-09-22T07:51:55.618Z"
@@ -2840,218 +1777,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention, \"Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TokenTrim, \"TokenTrim: Inference-Time Token Pruning for Autoregressive Long Video Generation\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PaFu-KV, \"Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MonarchRT, \"MonarchRT: Efficient Attention for Real-Time Video Generation\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SCD, \"Causality in Video Diffusers is Separable from Denoising\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SVOO, \"Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Sparse Forcing *,\"Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation\",",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
           "title": "Forcing-KV, \"Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models\".",
-          "description": null,
+          "description": "zju-jiyicheng/Forcing-KV",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3072,7 +1799,7 @@
         {
           "node_type": "item",
           "title": "Dummy Forcing, \"Efficient Autoregressive Video Diffusion with Dummy Head\".",
-          "description": null,
+          "description": "csguoh/DummyForcing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3093,7 +1820,7 @@
         {
           "node_type": "item",
           "title": "Light Forcing, \"Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention\".",
-          "description": null,
+          "description": "chengtao-lv/LightForcing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3119,38 +1846,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "X-Cache, \"X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
           "title": "WorldCache, \"WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching\".",
-          "description": null,
+          "description": "FofGofx/WorldCache",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3176,7 +1873,7 @@
         {
           "node_type": "item",
           "title": "FlowCache, \"Flow caching for autoregressive video generation\".",
-          "description": null,
+          "description": "mikeallen39/FlowCache",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3197,7 +1894,7 @@
         {
           "node_type": "item",
           "title": "WorldCache, \"WorldCache: Content-Aware Caching for Accelerated Video World Models\".",
-          "description": null,
+          "description": "umair1221/WorldCache",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3217,76 +1914,10 @@
         }
       ],
       "title": "3.2 Caching"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Quant VideoGen, \"Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        },
-        {
-          "node_type": "item",
-          "title": "\"KV Cache Quantization for Self-Forcing Video Generation: A 33-Method Empirical Study\".",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
-            "homepage": null,
-            "id": 1158444028,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-09-22T05:39:16Z",
-            "open_issues": 2,
-            "owner": "gracezhao1997",
-            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 712,
-            "topics": [
-              "ar-diffusion",
-              "autoregressive",
-              "awesome-list",
-              "computer-vision",
-              "diffusion-models",
-              "generative-ai",
-              "video-generation",
-              "world-models"
-            ]
-          },
-          "first_seen": "2026-08-28T14:29:44.826Z"
-        }
-      ],
-      "title": "3.3 Quantized Attention"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:48:34.636Z",
+    "last_updated": "2026-10-03T04:27:37.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
@@ -3298,7 +1929,7 @@
       "open_issues": 2,
       "owner": "gracezhao1997",
       "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-      "stars": 712,
+      "stars": 713,
       "topics": [
         "ar-diffusion",
         "autoregressive",
