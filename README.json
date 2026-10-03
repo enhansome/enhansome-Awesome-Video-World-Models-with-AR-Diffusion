@@ -86,7 +86,7 @@
             "open_issues": 6,
             "owner": "buoyancy99",
             "repo": "diffusion-forcing",
-            "stars": 1298,
+            "stars": 1299,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -225,7 +225,7 @@
                 "id": 1147151321,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T08:19:53Z",
+                "last_commit": "2026-10-03T04:29:19Z",
                 "open_issues": 33,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
@@ -264,7 +264,7 @@
                 "id": 1147151321,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T08:19:53Z",
+                "last_commit": "2026-10-03T04:29:19Z",
                 "open_issues": 33,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
@@ -1149,7 +1149,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4504,
+            "stars": 4506,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:27:37.608Z",
+    "last_updated": "2026-10-03T08:25:46.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
