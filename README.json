@@ -44,7 +44,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2187,
+            "stars": 2188,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1074,7 +1074,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2187,
+            "stars": 2188,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1704,7 +1704,7 @@
             "open_issues": 39,
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2686,
+            "stars": 2685,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1920,7 +1920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:12:44.855Z",
+    "last_updated": "2026-10-06T10:41:07.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
