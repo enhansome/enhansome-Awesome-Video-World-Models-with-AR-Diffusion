@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "jy0205",
             "repo": "Pyramid-Flow",
-            "stars": 3212,
+            "stars": 3213,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -44,7 +44,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2188,
+            "stars": 2191,
             "topics": [
               "acceleration",
               "diffusion",
@@ -229,7 +229,7 @@
                 "open_issues": 33,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 990,
+                "stars": 994,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -268,7 +268,7 @@
                 "open_issues": 33,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 990,
+                "stars": 994,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -419,7 +419,7 @@
                 "open_issues": 1,
                 "owner": "XingtongGe",
                 "repo": "Salt",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -453,7 +453,7 @@
                 "open_issues": 492,
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17265,
+                "stars": 17270,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -470,11 +470,11 @@
                 "id": 1062167576,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T03:16:25Z",
+                "last_commit": "2026-10-08T02:08:47Z",
                 "open_issues": 22,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2657,
+                "stars": 2683,
                 "topics": [
                   "infra",
                   "long",
@@ -646,7 +646,7 @@
                 "open_issues": 2,
                 "owner": "Ga-Lee",
                 "repo": "Frequency-aware-Length-EXtension",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1003,7 +1003,7 @@
             "open_issues": 366,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7603,
+            "stars": 7604,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1024,7 +1024,7 @@
             "open_issues": 46,
             "owner": "SandAI-org",
             "repo": "MAGI-1",
-            "stars": 3793,
+            "stars": 3794,
             "topics": [
               "autoregressive",
               "diffusion-models",
@@ -1049,7 +1049,7 @@
             "open_issues": 73,
             "owner": "jy0205",
             "repo": "Pyramid-Flow",
-            "stars": 3212,
+            "stars": 3213,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -1074,7 +1074,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2188,
+            "stars": 2191,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1122,7 +1122,7 @@
             "open_issues": 35,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2343,
+            "stars": 2344,
             "topics": [
               "genie",
               "interactive-video",
@@ -1152,7 +1152,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4509,
+            "stars": 4512,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1179,7 +1179,7 @@
             "open_issues": 35,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2343,
+            "stars": 2344,
             "topics": [
               "genie",
               "interactive-video",
@@ -1209,7 +1209,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1609,
+            "stars": 1610,
             "topics": [
               "3d",
               "hunyuan",
@@ -1340,7 +1340,7 @@
             "open_issues": 5,
             "owner": "inspatio",
             "repo": "inspatio-world",
-            "stars": 1034,
+            "stars": 1035,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1442,7 +1442,7 @@
             "open_issues": 45,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2458,
+            "stars": 2460,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1463,7 +1463,7 @@
             "open_issues": 22,
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1531,
+            "stars": 1534,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1526,7 +1526,7 @@
             "open_issues": 9,
             "owner": "GAIR-NLP",
             "repo": "LiveTalk",
-            "stars": 352,
+            "stars": 353,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1547,7 +1547,7 @@
             "open_issues": 2,
             "owner": "zai-org",
             "repo": "RealVideo",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "llm",
               "realtime",
@@ -1572,7 +1572,7 @@
             "open_issues": 20,
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1191,
+            "stars": 1192,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1704,7 +1704,7 @@
             "open_issues": 39,
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2686,
+            "stars": 2690,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1725,7 +1725,7 @@
             "open_issues": 19,
             "owner": "NVIDIA",
             "repo": "DreamDojo",
-            "stars": 1108,
+            "stars": 1110,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1920,7 +1920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T09:02:50.211Z",
+    "last_updated": "2026-10-08T09:18:24.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
@@ -1932,7 +1932,7 @@
       "open_issues": 2,
       "owner": "gracezhao1997",
       "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-      "stars": 714,
+      "stars": 715,
       "topics": [
         "ar-diffusion",
         "autoregressive",
