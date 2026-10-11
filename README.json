@@ -19,7 +19,7 @@
             "open_issues": 73,
             "owner": "jy0205",
             "repo": "Pyramid-Flow",
-            "stars": 3214,
+            "stars": 3213,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -44,7 +44,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2196,
+            "stars": 2198,
             "topics": [
               "acceleration",
               "diffusion",
@@ -187,7 +187,7 @@
                 "open_issues": 64,
                 "owner": "guandeh17",
                 "repo": "Self-Forcing",
-                "stars": 3538,
+                "stars": 3541,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -229,7 +229,7 @@
                 "open_issues": 33,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -268,7 +268,7 @@
                 "open_issues": 33,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "auto-regressive-diffusion-model",
                   "autoregressive-models",
@@ -398,7 +398,7 @@
                 "open_issues": 3,
                 "owner": "mvp-ai-lab",
                 "repo": "RAVEN",
-                "stars": 135,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -453,7 +453,7 @@
                 "open_issues": 492,
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17281,
+                "stars": 17283,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -471,10 +471,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T09:59:44Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2738,
+                "stars": 2750,
                 "topics": [
                   "infra",
                   "long",
@@ -1024,7 +1024,7 @@
             "open_issues": 366,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7608,
+            "stars": 7610,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1070,7 +1070,7 @@
             "open_issues": 73,
             "owner": "jy0205",
             "repo": "Pyramid-Flow",
-            "stars": 3214,
+            "stars": 3213,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -1095,7 +1095,7 @@
             "open_issues": 43,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2196,
+            "stars": 2198,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1173,7 +1173,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4518,
+            "stars": 4521,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1259,7 +1259,7 @@
             "open_issues": 18,
             "owner": "stdstu12",
             "repo": "YUME",
-            "stars": 682,
+            "stars": 683,
             "topics": [
               "image-to-video",
               "interactive-generation",
@@ -1338,7 +1338,7 @@
             "open_issues": 0,
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2515,
+            "stars": 2517,
             "topics": [
               "worldmodel"
             ]
@@ -1361,7 +1361,7 @@
             "open_issues": 5,
             "owner": "inspatio",
             "repo": "inspatio-world",
-            "stars": 1037,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1463,7 +1463,7 @@
             "open_issues": 46,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2460,
+            "stars": 2463,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1788,7 +1788,7 @@
             "open_issues": 2,
             "owner": "xiaomi-mlab",
             "repo": "DriveVA",
-            "stars": 63,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-09-22T07:51:55.618Z"
@@ -1941,7 +1941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:47:13.478Z",
+    "last_updated": "2026-10-11T09:09:09.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
