@@ -44,7 +44,7 @@
             "open_issues": 46,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2254,
+            "stars": 2256,
             "topics": [
               "acceleration",
               "diffusion",
@@ -474,7 +474,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2872,
+                "stars": 2873,
                 "topics": [
                   "infra",
                   "long",
@@ -505,7 +505,7 @@
                 "open_issues": 15,
                 "owner": "TencentARC",
                 "repo": "RollingForcing",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "efficient-tuning",
                   "long-context",
@@ -1021,10 +1021,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-01-29T05:21:27Z",
-            "open_issues": 381,
+            "open_issues": 386,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7762,
+            "stars": 7771,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1095,7 +1095,7 @@
             "open_issues": 46,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2254,
+            "stars": 2256,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1143,7 +1143,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2876,
+            "stars": 2882,
             "topics": [
               "genie",
               "interactive-video",
@@ -1173,7 +1173,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4571,
+            "stars": 4572,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1200,7 +1200,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2876,
+            "stars": 2882,
             "topics": [
               "genie",
               "interactive-video",
@@ -1259,7 +1259,7 @@
             "open_issues": 18,
             "owner": "stdstu12",
             "repo": "YUME",
-            "stars": 685,
+            "stars": 686,
             "topics": [
               "image-to-video",
               "interactive-generation",
@@ -1338,7 +1338,7 @@
             "open_issues": 0,
             "owner": "amap-cvlab",
             "repo": "ABot-World",
-            "stars": 2509,
+            "stars": 2510,
             "topics": [
               "worldmodel"
             ]
@@ -1484,7 +1484,7 @@
             "open_issues": 22,
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1561,
+            "stars": 1562,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1593,7 +1593,7 @@
             "open_issues": 21,
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1233,
+            "stars": 1235,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1941,7 +1941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T09:01:53.786Z",
+    "last_updated": "2026-11-08T09:19:38.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
