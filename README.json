@@ -44,7 +44,7 @@
             "open_issues": 46,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2261,
+            "stars": 2262,
             "topics": [
               "acceleration",
               "diffusion",
@@ -419,7 +419,7 @@
                 "open_issues": 1,
                 "owner": "XingtongGe",
                 "repo": "Salt",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -450,10 +450,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-16T01:28:50Z",
-                "open_issues": 496,
+                "open_issues": 497,
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17348,
+                "stars": 17352,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -474,7 +474,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2882,
+                "stars": 2883,
                 "topics": [
                   "infra",
                   "long",
@@ -553,7 +553,7 @@
                 "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "PackForcing",
-                "stars": 212,
+                "stars": 211,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -585,6 +585,27 @@
             },
             {
               "node_type": "item",
+              "title": "Deep Forcing, \"Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression\".",
+              "description": "cvlab-kaist/DeepForcing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026] Official implementation of \"Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression\"",
+                "homepage": null,
+                "id": 1104481733,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-30T21:57:07Z",
+                "open_issues": 7,
+                "owner": "cvlab-kaist",
+                "repo": "DeepForcing",
+                "stars": 155,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:29:44.826Z"
+            },
+            {
+              "node_type": "item",
               "title": "Infinite Forcing,",
               "description": "SOTAMak1r/Infinite-Forcing",
               "children": [],
@@ -606,27 +627,6 @@
                   "infinite-long-video-generation",
                   "real-time-video-generation"
                 ]
-              },
-              "first_seen": "2026-08-28T14:29:44.826Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Deep Forcing, \"Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression\".",
-              "description": "cvlab-kaist/DeepForcing",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2026] Official implementation of \"Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression\"",
-                "homepage": null,
-                "id": 1104481733,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-30T21:57:07Z",
-                "open_issues": 7,
-                "owner": "cvlab-kaist",
-                "repo": "DeepForcing",
-                "stars": 154,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
             },
@@ -821,7 +821,7 @@
                 "open_issues": 2,
                 "owner": "francelico",
                 "repo": "PERSIST",
-                "stars": 130,
+                "stars": 131,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -1024,7 +1024,7 @@
             "open_issues": 394,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7790,
+            "stars": 7794,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1095,7 +1095,7 @@
             "open_issues": 46,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2261,
+            "stars": 2262,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1143,7 +1143,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2903,
+            "stars": 2910,
             "topics": [
               "genie",
               "interactive-video",
@@ -1173,7 +1173,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4575,
+            "stars": 4578,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1200,7 +1200,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2903,
+            "stars": 2910,
             "topics": [
               "genie",
               "interactive-video",
@@ -1230,7 +1230,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1626,
+            "stars": 1627,
             "topics": [
               "3d",
               "hunyuan",
@@ -1361,7 +1361,7 @@
             "open_issues": 6,
             "owner": "inspatio",
             "repo": "inspatio-world",
-            "stars": 1042,
+            "stars": 1043,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1440,6 +1440,27 @@
             ]
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FlockWorld, \"FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation\".",
+          "description": "wangyz1999/flockworld",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "flock",
+            "homepage": null,
+            "id": 1158090415,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-23T14:40:31Z",
+            "open_issues": 0,
+            "owner": "wangyz1999",
+            "repo": "flockworld",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-13T09:50:38.660Z"
         }
       ],
       "title": "2.2 Interactive Video Action World Model"
@@ -1460,10 +1481,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:10:10Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2520,
+            "stars": 2521,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1484,7 +1505,7 @@
             "open_issues": 21,
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1562,
+            "stars": 1565,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1526,7 +1547,7 @@
             "open_issues": 15,
             "owner": "TaekyungKi",
             "repo": "AvatarForcing",
-            "stars": 367,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1568,7 +1589,7 @@
             "open_issues": 2,
             "owner": "zai-org",
             "repo": "RealVideo",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "llm",
               "realtime",
@@ -1593,7 +1614,7 @@
             "open_issues": 21,
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1240,
+            "stars": 1243,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1725,7 +1746,7 @@
             "open_issues": 40,
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2765,
+            "stars": 2766,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1884,7 +1905,7 @@
             "open_issues": 0,
             "owner": "FofGofx",
             "repo": "WorldCache",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "free-training",
               "inference-acceleration",
@@ -1941,7 +1962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T10:03:23.268Z",
+    "last_updated": "2026-11-13T09:50:38.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
@@ -1949,7 +1970,7 @@
       "id": 1158444028,
       "language": "TeX",
       "license": null,
-      "last_commit": "2026-10-09T03:53:13Z",
+      "last_commit": "2026-11-13T06:29:32Z",
       "open_issues": 2,
       "owner": "gracezhao1997",
       "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
@@ -1965,7 +1986,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "e7660f1c312f1a7f6b48bb16b8cb19f4b38898a3",
+    "original_repository_sha": "ff4ef2287a6cbe8015bc9476ccf9fe6a2adfb432",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-World-Models-with-AR-Diffusion",
     "enhanced_repository_description": null,
     "title": "📹 Awesome Video World Models with AR Diffusion with stars"
