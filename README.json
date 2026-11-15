@@ -44,7 +44,7 @@
             "open_issues": 46,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2263,
+            "stars": 2265,
             "topics": [
               "acceleration",
               "diffusion",
@@ -398,7 +398,7 @@
                 "open_issues": 3,
                 "owner": "mvp-ai-lab",
                 "repo": "RAVEN",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -453,7 +453,7 @@
                 "open_issues": 497,
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17352,
+                "stars": 17356,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -474,7 +474,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2883,
+                "stars": 2884,
                 "topics": [
                   "infra",
                   "long",
@@ -892,7 +892,7 @@
                 "open_issues": 1,
                 "owner": "H-EmbodVis",
                 "repo": "HyDRA",
-                "stars": 287,
+                "stars": 288,
                 "topics": [
                   "video-generation",
                   "world-models",
@@ -934,7 +934,7 @@
             "open_issues": 3,
             "owner": "Echo-Team-Joy-Future-Academy-JD",
             "repo": "Echo-Memory",
-            "stars": 251,
+            "stars": 252,
             "topics": [
               "action-conditioned",
               "computer-vision",
@@ -1021,10 +1021,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-01-29T05:21:27Z",
-            "open_issues": 394,
+            "open_issues": 398,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7801,
+            "stars": 7807,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1095,7 +1095,7 @@
             "open_issues": 46,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2263,
+            "stars": 2265,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1143,7 +1143,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2915,
+            "stars": 2920,
             "topics": [
               "genie",
               "interactive-video",
@@ -1173,7 +1173,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4579,
+            "stars": 4581,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1200,7 +1200,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2915,
+            "stars": 2920,
             "topics": [
               "genie",
               "interactive-video",
@@ -1230,7 +1230,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1627,
+            "stars": 1628,
             "topics": [
               "3d",
               "hunyuan",
@@ -1259,7 +1259,7 @@
             "open_issues": 18,
             "owner": "stdstu12",
             "repo": "YUME",
-            "stars": 685,
+            "stars": 686,
             "topics": [
               "image-to-video",
               "interactive-generation",
@@ -1378,7 +1378,7 @@
             "id": 1161285612,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-03-03T22:32:46Z",
+            "last_commit": "2026-11-14T16:02:34Z",
             "open_issues": 1,
             "owner": "solaris-wm",
             "repo": "solaris",
@@ -1484,7 +1484,7 @@
             "open_issues": 47,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2521,
+            "stars": 2524,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1505,7 +1505,7 @@
             "open_issues": 21,
             "owner": "Soul-AILab",
             "repo": "SoulX-FlashTalk",
-            "stars": 1565,
+            "stars": 1567,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1547,7 +1547,7 @@
             "open_issues": 15,
             "owner": "TaekyungKi",
             "repo": "AvatarForcing",
-            "stars": 369,
+            "stars": 370,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1614,7 +1614,7 @@
             "open_issues": 21,
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1244,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1677,7 +1677,7 @@
             "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "WMReward",
-            "stars": 108,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1746,7 +1746,7 @@
             "open_issues": 40,
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2767,
+            "stars": 2768,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1962,7 +1962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:14:35.479Z",
+    "last_updated": "2026-11-15T09:44:27.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
