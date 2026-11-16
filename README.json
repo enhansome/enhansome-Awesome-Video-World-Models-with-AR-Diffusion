@@ -226,7 +226,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T03:51:06Z",
-                "open_issues": 34,
+                "open_issues": 36,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
                 "stars": 1026,
@@ -265,7 +265,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T03:51:06Z",
-                "open_issues": 34,
+                "open_issues": 36,
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
                 "stars": 1026,
@@ -450,10 +450,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-16T01:28:50Z",
-                "open_issues": 497,
+                "open_issues": 498,
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17356,
+                "stars": 17357,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:29:44.826Z"
@@ -474,7 +474,7 @@
                 "open_issues": 3,
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2884,
+                "stars": 2885,
                 "topics": [
                   "infra",
                   "long",
@@ -892,7 +892,7 @@
                 "open_issues": 1,
                 "owner": "H-EmbodVis",
                 "repo": "HyDRA",
-                "stars": 288,
+                "stars": 289,
                 "topics": [
                   "video-generation",
                   "world-models",
@@ -1021,10 +1021,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-01-29T05:21:27Z",
-            "open_issues": 398,
+            "open_issues": 401,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7807,
+            "stars": 7817,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1143,7 +1143,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2920,
+            "stars": 2927,
             "topics": [
               "genie",
               "interactive-video",
@@ -1173,7 +1173,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4581,
+            "stars": 4583,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1200,7 +1200,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2920,
+            "stars": 2927,
             "topics": [
               "genie",
               "interactive-video",
@@ -1484,7 +1484,7 @@
             "open_issues": 47,
             "owner": "Alibaba-Quark",
             "repo": "LiveAvatar",
-            "stars": 2524,
+            "stars": 2525,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1614,7 +1614,7 @@
             "open_issues": 21,
             "owner": "Soul-AILab",
             "repo": "SoulX-LiveAct",
-            "stars": 1246,
+            "stars": 1247,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1746,7 +1746,7 @@
             "open_issues": 40,
             "owner": "dreamzero0",
             "repo": "dreamzero",
-            "stars": 2768,
+            "stars": 2770,
             "topics": []
           },
           "first_seen": "2026-08-28T14:29:44.826Z"
@@ -1962,7 +1962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:44:27.505Z",
+    "last_updated": "2026-11-16T10:00:08.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorithms, Applications, and Infrastructure, Aimed at Serving as a Comprehensive Resource for Researchers, Practitioners, and Enthusiasts.",
@@ -1974,7 +1974,7 @@
       "open_issues": 2,
       "owner": "gracezhao1997",
       "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-      "stars": 719,
+      "stars": 720,
       "topics": [
         "ar-diffusion",
         "autoregressive",
